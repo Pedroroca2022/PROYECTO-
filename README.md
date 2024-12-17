@@ -1,4 +1,4 @@
-# PROYECTO-
+# Sistema de gestión de matrículas desarrollado en Python Desarollado por Pedro Roca Alvarez -
 Descripción del Proyecto de Matrícula
 
 Este proyecto consiste en un sistema de gestión de matrículas desarrollado en Python . Tiene como
